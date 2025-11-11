@@ -15,12 +15,12 @@
 ### html provides a main role in browser 
 
 `which main job is to display the data and interact with the user `
--role of html in browser
- -load file
- -convert raw bytes
- -convert , select the character
- -relation
- -lastly convert to node list and send it to cssom ,dom
+- role of html in browser
+ - load file
+ - convert raw bytes
+ - convert , select the character
+ - relation
+ - lastly convert to node list and send it to cssom ,dom
 
 
 `Painting  script which uses javascript for browser
