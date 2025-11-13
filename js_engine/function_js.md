@@ -13,6 +13,8 @@
 
   ### What is Scope ?
   `when a compiler access a specific variable or funtion in code`
+
+
   **what is lexical environment**
   it is a local memory along with the lexical environment of its parent
   ex: function a(){
@@ -28,3 +30,4 @@
 
   **scope chain**
   the chain of all lexical environment & the parental references_
+
