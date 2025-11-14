@@ -5,6 +5,7 @@
 - it is also called compound statement
   
 syantax 
+
 {
 
     //compound statement 
